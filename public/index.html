@@ -1,43 +1,380 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<!--[if IE 8]><html class="ie8" lang="en"><![endif]-->
+<!--[if IE 9]><html class="ie9" lang="en"><![endif]-->
+<!--[if gt IE 9]><!--><html lang="en" class="preload"><!--<![endif]-->
   <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
+    <meta charset="UTF-8" />
+
+    <!-- Description -->
+    <title>Moxhe &middot; Fresh Australian Seafood Restaurant</title>
     <meta
       name="description"
-      content="Web site created using create-react-app"
+      content="Moxhe is a Modern Australian restaurant with a focus on Fresh Seafood."
     />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
+    <meta
+      name="keywords"
+      content="restaurant, seafood, sea, fish, seashell, australia, belgium, bronte"
+    />
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
+    Publisher
+    <link
+      href="https://plus.google.com/101392377446185307323/"
+      rel="publisher"
+    />
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="Moxhe" />
+    <meta
+      property="og:title"
+      content="Moxhe &middot; Fresh Australian Seafood Restaurant"
+    />
+    <meta
+      property="og:description"
+      content="Moxhe is a Modern Australian restaurant with a focus on Fresh Seafood."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://moxhe.com.au/" />
+    <meta
+      property="og:image"
+      content="https://moxhe.com.au/img/share/og-home.jpg"
+    />
+    <meta property="og:image:width" content="1800" />
+    <meta property="og:image:height" content="945" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@davidestmoxhe" />
+    <meta name="twitter:creator" content="@davidestmoxhe" />
+    <meta
+      name="twitter:title"
+      content="Moxhe &middot; Fresh Australian Seafood Restaurant"
+    />
+    <meta
+      name="twitter:description"
+      content="Moxhe is a Modern Australian restaurant with a focus on Fresh Seafood."
+    />
+    <meta
+      name="twitter:image"
+      content="https://moxhe.com.au/img/share/og-home.jpg"
+    />
+
+    <!-- Viewport -->
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+
+    <!-- Detect IE 10+ -->
+    <script>
+      (function detectIE() {
+        var ua = window.navigator.userAgent;
+        var version = -1;
+
+        var msie = ua.indexOf("MSIE ");
+        if (msie > 0) {
+          version = parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)), 10);
+        }
+        var trident = ua.indexOf("Trident/");
+        if (trident > 0) {
+          var rv = ua.indexOf("rv:");
+          version = parseInt(ua.substring(rv + 3, ua.indexOf(".", rv)), 10);
+        }
+        var edge = ua.indexOf("Edge/");
+        if (edge > 0) {
+          version = parseInt(ua.substring(edge + 5, ua.indexOf(".", edge)), 10);
+        }
+        if (version != -1) {
+          document.documentElement.className += " ie" + version;
+        }
+      })();
+    </script>
+
+    <!-- CSS -->
+    <link
+      href="build/css/style-b9eef548bd.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <!-- Icons -->
+    <link rel="shortcut icon" href="img/app-icons/favicon.ico" />
+    <link rel="mask-icon" href="img/app-icons/pin-icon.svg" color="#988784" />
+    <link
+      rel="apple-touch-icon"
+      sizes="120x120"
+      href="img/app-icons/apple-touch-icon.png"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="152x152"
+      href="img/app-icons/apple-touch-icon_152.png"
+    />
+
+    <!-- Web App -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Moxhe" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="translucent" />
   </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+  <body data-page-id="home">
+    <div id="wrapper">
+      <header id="header" class="noselect">
+        <h1 id="main-title"><span>Moxhe</span> - Fresh Australian Seafood</h1>
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
+        <nav class="nav">
+          <button id="btn--menu" aria-label="Menu">
+            <span class="hamburger"></span>
+            <span class="hamburger"></span>
+            <span class="hamburger"></span>
+
+            <span class="btn--menu__text">Menu</span>
+            <span class="btn--menu__text">Close</span>
+          </button>
+
+          <div id="content--menu">
+            <ul class="nav__left">
+              <li>
+                <a
+                  href="https://instagram.com/moxherestaurant/"
+                  class="icon--ig"
+                  >Instagram</a
+                >
+              </li>
+              <li>
+                <a
+                  href="https://www.facebook.com/moxherestaurant/info?tab=overview"
+                  class="icon--fb"
+                  >Facebook</a
+                >
+              </li>
+              <li>Follow us!</li>
+            </ul>
+
+            <ul class="nav__center">
+              <li>
+                <a href="index.htm" class="current" data-goto="home">Home</a>
+              </li>
+              <li><a href="index.htm#about" data-goto="home">About</a></li>
+              <li><a href="menu.html" data-goto="menu">Menu</a></li>
+              <li>
+                <a href="index.htm#voucher" data-goto="voucher">Voucher</a>
+              </li>
+              <li><a href="press.html" data-goto="press">Press</a></li>
+              <li><a href="contact.html" data-goto="contact">Contact</a></li>
+            </ul>
+          </div>
+
+          <a href="#booking" class="nav__right" data-goto="booking"
+            ><span>Booking</span></a
+          >
+        </nav>
+      </header>
+      <!-- /#header -->
+
+      <main id="content" role="main">
+        <canvas id="c" width="0" height="0"></canvas>
+
+        <div id="page-container">
+          <ul id="nav--bar">
+            <li class="current"><a href="#intro">Introduction</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#seafood">Seafood</a></li>
+            <li><a href="#wine">Wine</a></li>
+            <li><a href="#our-menus">Our Menus</a></li>
+            <li><a href="#david-helen">David and Helen</a></li>
+            <li><a href="#menu">Menu and Book your table</a></li>
+          </ul>
+
+          <section id="intro" class="h-section valign-p">
+            <div class="section--background"></div>
+
+            <video id="bg-video" autoplay="" muted="" loop="" playsinline="">
+              <source src="video/home/moxhe.mp4" type="video/mp4" />
+              <source src="video/home/moxhe.webm" type="video/webm" />
+            </video>
+
+            <article class="content--center valign-c">
+              <h2>Moxhe</h2>
+              <h3>Fresh Australian Seafood Restaurant</h3>
+            </article>
+
+            <a id="scroll--info">
+              <svg
+                version="1.1"
+                class="icon--mouse"
+                xmlns="http://www.w3.org/2000/svg"
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                x="0px"
+                y="0px"
+                width="22px"
+                height="32px"
+                viewbox="0 0 22 32"
+                enable-background="new 0 0 22 32"
+                xml:space="preserve"
+              >
+                <g>
+                  <path
+                    fill="none"
+                    stroke="#000000"
+                    stroke-width="2"
+                    stroke-miterlimit="10"
+                    d="M21,11c0-5.523-4.477-10-10-10C5.477,1,1,5.477,1,11v10c0,5.522,4.477,10,10,10c5.523,0,10-4.478,10-10V11z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="#000000"
+                    stroke-width="1.5"
+                    stroke-miterlimit="10"
+                    d="M13.208,8.792c0-1.231-0.998-2.229-2.229-2.229S8.75,7.561,8.75,8.792c0,0.408,0,1.821,0,2.229c0,1.23,0.998,2.229,2.229,2.229s2.229-0.998,2.229-2.229C13.208,10.613,13.208,9.2,13.208,8.792z"
+                  ></path>
+                </g>
+              </svg>
+              <p>Scroll to discover</p>
+            </a>
+          </section>
+
+          <section id="about" class="h-section valign-p">
+            <div class="section--background">
+              <div class="section--gradient section--gradient_right"></div>
+              <img src="img/home/background-section2_2x.jpg" alt="About" />
+            </div>
+
+            <article class="content--right valign-c">
+              <p>
+                Moxhe is a fresh Australian seafood restaurant. We source
+                sustainable &amp; line caught seafood, as well as live
+                crustaceans everyday. Moxhe is chef David&#039;s home village in
+                Belgium.
+              </p>
+            </article>
+          </section>
+
+          <section id="seafood" class="h-section valign-p">
+            <div class="section--background">
+              <div class="section--gradient"></div>
+              <img src="img/home/background-section3_2x.jpg" alt="Seafood" />
+            </div>
+
+            <article class="content--left valign-c">
+              <h2>We love Australian seafood.</h2>
+              <p>
+                Australian sea life is amongst the richest in the world. The
+                concept of our restaurant is to bring those wild species to the
+                table, from your favourites to those rare varieties you
+                don&#039;t see everyday. We head to the fish market every
+                morning to hand pick the best for our daily changing set menus.
+              </p>
+            </article>
+          </section>
+
+          <section id="wine" class="h-section valign-p">
+            <div class="section--background">
+              <div class="section--gradient section--gradient_right"></div>
+              <img src="img/home/background-section4_2x.jpg" alt="Wine" />
+            </div>
+
+            <article class="content--right valign-c">
+              <h2>Our second love is wine.</h2>
+              <p>
+                Helen&#039;s love of wine is evident through her list. Enjoy an
+                adventure through the old world &amp; new world varietals she
+                has featured. David&#039;s beer list is forever growing, from
+                Belgian classics to New world craft beers.
+              </p>
+            </article>
+          </section>
+
+          <section id="our-menus" class="h-section valign-p">
+            <div class="section--background">
+              <div class="section--gradient"></div>
+              <img src="img/home/background-section5_2x.jpg" alt="Our Menus" />
+            </div>
+
+            <article class="content--left valign-c">
+              <h2>Our Menus</h2>
+              <p>
+                We love to eat, to take our time and enjoy the flavours in a
+                series of small dishes. Our degustation gives you the chance to
+                do exactly that. More than a succession of plates, we offer you
+                an experience, a connection between each dish, pulling from our
+                seaside location in Bronte. Complete the journey with our
+                optional matching wines.
+              </p>
+            </article>
+          </section>
+
+          <section id="david-helen" class="h-section valign-p">
+            <div class="section--background">
+              <div class="section--gradient section--gradient_right"></div>
+              <img
+                src="img/home/background-section7_2x.jpg"
+                alt="David and Helen"
+              />
+            </div>
+
+            <article class="content--right valign-c">
+              <h2>David &amp; Helen</h2>
+              <p>
+                Having worked at restaurants in Europe such as Bozar and Michel
+                Bras, David moved to Sydney. His career led him to fish face and
+                Cafe Paci. Helen&#039;s career history includes places such as
+                Pier and Berowra Waters Inn. Together, they have put into Moxhe,
+                everything they love about dining in a restaurant, and hope to
+                welcome you soon.
+              </p>
+            </article>
+          </section>
+
+          <section id="menu" class="h-section valign-p">
+            <div class="section--background"></div>
+
+            <ul>
+              <li class="content--link">
+                <div class="link--background"></div>
+                <a href="menu.html" data-goto="menu">
+                  <div class="content--transition">
+                    <p>Discover the Menu</p>
+                  </div>
+                </a>
+              </li>
+              <li class="content--link">
+                <a href="#booking" data-goto="booking">
+                  <div class="content--transition">
+                    <p>Book your table now!</p>
+                  </div>
+                </a>
+              </li>
+            </ul>
+          </section>
+        </div>
+      </main>
+      <!-- /#content -->
+
+      <footer id="footer" class="noselect">
+        <a class="logo--reed" target="_blank" href="http://reed.be">Reed.be</a>
+      </footer>
+    </div>
+    <!-- /#wrapper -->
+
+    <div class="iframeCtn">
+      <div class="iframeWrapper iframeWrapper--large" id="booking">
+        <iframe
+          data-id="nbi-widget"
+          src="https://bookings.nowbookit.com/?accountid=bae7181b-88ff-4180-ab10-17cb7e9ef74e&venueid=4424&theme=light&colors=hex,a1887f"
+        ></iframe>
+      </div>
+
+      <div class="iframeWrapper" id="voucher">
+        <iframe
+          src="https://giftcards.nowbookit.com/cards?accountid=bae7181b-88ff-4180-ab10-17cb7e9ef74e&venueid=4424&theme=light&accent=0,0,0"
+          width="100%"
+          height="830px"
+        ></iframe>
+      </div>
+    </div>
+
+    <script src="build/js/all-e15fb61743.js"></script>
+    <script src="iframe-resizer-build/bundle.js"></script>
   </body>
 </html>

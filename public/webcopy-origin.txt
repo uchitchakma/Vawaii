@@ -1,0 +1,328 @@
+Uri: https://fast.fonts.net/t/1.css?apiType=css&projectid=53e816a0-d786-46f7-b658-3fdf308a0e41
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\t\1.css
+Content Type: text/css
+
+Uri: https://fast.fonts.net/t/1.css?apiType=css&projectid=53e816a0-d786-46f7-b658-3fdf308a0e41);article,aside,details,figcaption,figure,footer,header,hgroup,hr,menu,nav,section{display:block}a,hr{padding:0}li,nav ul,ul{list-style:none}
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\t\1-1.css
+Content Type: text/css
+
+Uri: https://moxhe.com.au/
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\index.htm
+Content Type: text/html
+
+Uri: https://moxhe.com.au/build/css/style-b9eef548bd.css
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\build\css\style-b9eef548bd.css
+Content Type: text/css
+
+Uri: https://moxhe.com.au/build/js/all-e15fb61743.js
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\build\js\all-e15fb61743.js
+Content Type: application/javascript
+
+Uri: https://moxhe.com.au/contact
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\contact.html
+Content Type: text/html
+
+Uri: https://moxhe.com.au/fonts/2a961063-ea56-4a4b-8cea-bdae32edb0e2.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\2a961063-ea56-4a4b-8cea-bdae32edb0e2.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/fonts/2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\2aff4f81-3e97-4a83-9e6c-45e33c024796.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://moxhe.com.au/fonts/2fa30669-9bbd-4ced-912f-db94a367ed6c.woff
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\2fa30669-9bbd-4ced-912f-db94a367ed6c.woff
+Content Type: application/font-woff
+
+Uri: https://moxhe.com.au/fonts/5a553f8d-71a9-40c9-9fa1-332ce0354dd6.ttf
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\5a553f8d-71a9-40c9-9fa1-332ce0354dd6.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://moxhe.com.au/fonts/64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\64017d81-9430-4cba-8219-8f5cc28b923e.woff2
+Content Type: application/font-woff2
+
+Uri: https://moxhe.com.au/fonts/67774eeb-550a-48e9-8d63-5c94c7aa7999.woff2
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\67774eeb-550a-48e9-8d63-5c94c7aa7999.woff2
+Content Type: application/font-woff2
+
+Uri: https://moxhe.com.au/fonts/6a35571c-ea14-4dac-9ae1-0e7af0abeec8.ttf
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\6a35571c-ea14-4dac-9ae1-0e7af0abeec8.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://moxhe.com.au/fonts/70ae52ec-d89b-4c6a-9402-854ebe423c54.woff
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\70ae52ec-d89b-4c6a-9402-854ebe423c54.woff
+Content Type: application/font-woff
+
+Uri: https://moxhe.com.au/fonts/7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot?
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\7e90123f-e4a7-4689-b41f-6bcfe331c00a.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/87e4b4fc-cdf1-450a-8bed-dd818cba908d.eot?
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\87e4b4fc-cdf1-450a-8bed-dd818cba908d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/90f0c69d-64f1-4f80-98a5-8a7de1f975d3.eot?
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\90f0c69d-64f1-4f80-98a5-8a7de1f975d3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/93cc6d34-798e-42c8-87d2-fd6391801b63.eot?
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\93cc6d34-798e-42c8-87d2-fd6391801b63.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/ab9cd062-380f-4b53-b1a7-c0bec7402235.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\ab9cd062-380f-4b53-b1a7-c0bec7402235.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/fonts/ac2bdafc-d4a8-49d0-8a10-4e2f16bf7e3c.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\ac2bdafc-d4a8-49d0-8a10-4e2f16bf7e3c.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/fonts/ae47a7f5-89da-4879-b934-29722c3dd451.woff2
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\ae47a7f5-89da-4879-b934-29722c3dd451.woff2
+Content Type: application/font-woff2
+
+Uri: https://moxhe.com.au/fonts/c12b3ebb-3771-483f-a84a-ac63d615c28e.ttf
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\c12b3ebb-3771-483f-a84a-ac63d615c28e.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://moxhe.com.au/fonts/d1ab5004-6ea6-4921-b759-f5105e992604.woff
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\d1ab5004-6ea6-4921-b759-f5105e992604.woff
+Content Type: application/font-woff
+
+Uri: https://moxhe.com.au/fonts/d9fe41ee-4904-4a11-ba11-b61cd3be767f.woff2
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\d9fe41ee-4904-4a11-ba11-b61cd3be767f.woff2
+Content Type: application/font-woff2
+
+Uri: https://moxhe.com.au/fonts/df204f60-6f7e-4f26-8b3f-5f809341d8c3.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\df204f60-6f7e-4f26-8b3f-5f809341d8c3.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/fonts/e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\e56ecb6d-da41-4bd9-982d-2d295bec9ab0.woff
+Content Type: application/font-woff
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.eot
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.eot?
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.ttf
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.woff
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular.woff
+Content Type: application/font-woff
+
+Uri: https://moxhe.com.au/fonts/playfairdisplay-regular.woff2
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\fonts\playfairdisplay-regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://moxhe.com.au/img/app-icons/apple-touch-icon.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\app-icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/app-icons/apple-touch-icon_152.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\app-icons\apple-touch-icon_152.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/app-icons/favicon.ico
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\app-icons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://moxhe.com.au/img/app-icons/pin-icon.svg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\app-icons\pin-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://moxhe.com.au/img/contact/background-contact.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\contact\background-contact.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/contact/background-contact_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\contact\background-contact_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section1.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section1.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section1_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section1_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section2_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section2_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section3_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section3_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section4_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section4_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section5_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section5_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section6-1.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section6-1_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section6-1_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section6-2.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section6-2_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section6-2_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/background-section7_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\background-section7_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/home/gradient-about.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\gradient-about.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/home/gradient-david.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\gradient-david.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/home/gradient-degustation.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\gradient-degustation.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/home/gradient-seafood.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\gradient-seafood.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/home/gradient-wine.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\home\gradient-wine.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-arrow.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-arrow.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-down.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-down.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-face.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-face.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/icons/icon-face_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-face_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/icons/icon-face_alt.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-face_alt.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-face_alt_2x.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-face_alt_2x.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-insta.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-insta.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/icons/icon-insta_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-insta_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/icons/icon-insta_alt.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-insta_alt.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-insta_alt_2x.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-insta_alt_2x.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-reed.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-reed.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/icon-reed_2x.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\icon-reed_2x.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/icons/scroll-arrow.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\icons\scroll-arrow.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/illustrations/moxhe-seashell.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\illustrations\moxhe-seashell.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/illustrations/moxhe-seashell_2x.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\illustrations\moxhe-seashell_2x.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/logo/logo-moxhe.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\logo\logo-moxhe.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/logo/logo-moxhe_2x.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\logo\logo-moxhe_2x.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/menu/background-menu.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\menu\background-menu.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/menu/background-menu_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\menu\background-menu_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/menu/gradient-menu.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\menu\gradient-menu.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/img/press/background-press.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\press\background-press.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/press/background-press_2x.jpg
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\press\background-press_2x.jpg
+Content Type: image/jpeg
+
+Uri: https://moxhe.com.au/img/press/gradient-press.png
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\img\press\gradient-press.png
+Content Type: image/png
+
+Uri: https://moxhe.com.au/menu
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\menu.html
+Content Type: text/html
+
+Uri: https://moxhe.com.au/press
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\press.html
+Content Type: text/html
+
+Uri: https://moxhe.com.au/video/home/moxhe.mp4
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\video\home\moxhe.mp4
+Content Type: video/mp4
+
+Uri: https://moxhe.com.au/video/home/moxhe.webm
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\video\home\moxhe.webm
+Content Type: video/webm
+
+Uri: https://plugins.nowbookit.com/iframe-resizer-build/bundle.js
+File Name: C:\Users\uchit\Downloads\moxhe.com.au\iframe-resizer-build\bundle.js
+Content Type: application/javascript
+
